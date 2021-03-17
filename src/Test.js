@@ -1,0 +1,20 @@
+import React, { Component } from 'react';
+
+class Test extends Component{
+
+    render(){
+        const name = "박현우";
+        const my_style = {
+            backgroundColor : "blue",
+            color : "orange",
+            fontSize : "40px",
+            padding : 12
+        }
+
+        return (
+            <div style={my_style}>{name}</div>
+        )
+    }
+}
+
+export default Test;

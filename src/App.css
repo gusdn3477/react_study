@@ -1,0 +1,60 @@
+.react{
+  background: antiquewhite;
+  color : brown;
+  font-size : 36px;
+  font-weight : normal;
+  padding : 16px;
+  text-align : center;
+}
+
+.input{
+  font-size : 16px;
+  font-weight : normal;
+  text-align:center;
+}
+
+.all{
+  display:inline-flex;
+}
+
+.red{
+  background:red;
+  width:100px;
+  height:150px;
+}
+
+.orange{
+  background:orange;
+  width:100px;
+  height:150px;
+}
+
+.yellow{
+  background:yellow;
+  width:100px;
+  height:150px;
+}
+
+.green{
+  background:green;
+  width:100px;
+  height:150px;
+}
+
+.blue{
+  background:blue;
+  width:100px;
+  height:150px;
+}
+
+.navy{
+  background:navy;
+  width:100px;
+  height:150px; 
+}
+
+.purple{
+  background:purple;
+  width:100px;
+  height:150px;
+}
